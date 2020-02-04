@@ -10,6 +10,7 @@ markup:
   highlight:
     noClasses:          false
 
+relativeURLs: true
 buildDrafts:            true
 buildFuture:            true
 
